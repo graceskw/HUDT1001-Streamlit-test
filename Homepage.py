@@ -14,3 +14,5 @@ st.write('This website showcases the projects I have in courses for **BA(HDT)** 
 st.markdown("You can find the curriculum of BA(HDT) [here](https://arts.hku.hk/current-students/undergraduate/BAHDT/curriculum-structure)")
 
 st.write(f"Today's date is {datetime.date.today()}")
+
+st.link_button("Github link", "https://github.com/graceskw/HUDT1001-Streamlit-test")
